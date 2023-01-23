@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MasonGeloso
-- 👀 I’m interested in typescript and automation
-- 🌱 I’m currently learning directus extension development
-- 📫 How to reach me: solutions@honesystems.io || mason@honesystems.io
+
